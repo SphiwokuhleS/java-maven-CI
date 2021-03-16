@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="co.za.wethinkcode.CalcTest" time="0.16" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="co.za.wethinkcode.CalcTest" time="0.157" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="15"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ZA"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-15-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/sphe/problems/practice/CI/java-maven-CI/target/surefire/surefirebooter3291401143656550067.jar /home/sphe/problems/practice/CI/java-maven-CI/target/surefire 2021-03-16T10-22-50_162-jvmRun1 surefire10655346276932912834tmp surefire_0870128828124415319tmp"/>
+    <property name="sun.java.command" value="/home/sphe/problems/practice/CI/java-maven-CI/target/surefire/surefirebooter14851495328516495708.jar /home/sphe/problems/practice/CI/java-maven-CI/target/surefire 2021-03-16T10-43-52_425-jvmRun1 surefire11212719261601867772tmp surefire_02535912223551157965tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/sphe/problems/practice/CI/java-maven-CI/target/test-classes:/home/sphe/problems/practice/CI/java-maven-CI/target/classes:/home/sphe/.m2/repository/org/junit/jupiter/junit-jupiter/5.8.0-M1/junit-jupiter-5.8.0-M1.jar:/home/sphe/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.0-M1/junit-jupiter-api-5.8.0-M1.jar:/home/sphe/.m2/repository/org/apiguardian/apiguardian-api/1.1.1/apiguardian-api-1.1.1.jar:/home/sphe/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/sphe/.m2/repository/org/junit/platform/junit-platform-commons/1.8.0-M1/junit-platform-commons-1.8.0-M1.jar:/home/sphe/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.0-M1/junit-jupiter-params-5.8.0-M1.jar:/home/sphe/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.0-M1/junit-jupiter-engine-5.8.0-M1.jar:/home/sphe/.m2/repository/org/junit/platform/junit-platform-engine/1.8.0-M1/junit-platform-engine-1.8.0-M1.jar:/home/sphe/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.4.20/kotlin-stdlib-jdk8-1.4.20.jar:/home/sphe/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib/1.4.20/kotlin-stdlib-1.4.20.jar:/home/sphe/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.20/kotlin-stdlib-common-1.4.20.jar:/home/sphe/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar:/home/sphe/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.4.20/kotlin-stdlib-jdk7-1.4.20.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/home/sphe/problems/practice/CI/java-maven-CI/target/surefire/surefirebooter3291401143656550067.jar"/>
+    <property name="surefire.real.class.path" value="/home/sphe/problems/practice/CI/java-maven-CI/target/surefire/surefirebooter14851495328516495708.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="15.0.1+9-Debian-3"/>
     <property name="user.name" value="sphe"/>
@@ -50,5 +50,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="59.0"/>
   </properties>
-  <testcase name="TestAdd" classname="co.za.wethinkcode.CalcTest" time="0.135"/>
+  <testcase name="TestAdd" classname="co.za.wethinkcode.CalcTest" time="0.141"/>
 </testsuite>
