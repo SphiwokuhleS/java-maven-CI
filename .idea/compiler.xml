@@ -9,5 +9,8 @@
         <module name="java-maven-CI" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-maven-CI" target="15" />
+    </bytecodeTargetLevel>
   </component>
 </project>

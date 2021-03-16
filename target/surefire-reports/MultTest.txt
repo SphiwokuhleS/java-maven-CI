@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: MultTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.08 s <<< FAILURE! - in MultTest
+TestMultiplication  Time elapsed: 0.063 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <3> but was: <4>
+	at MultTest.TestMultiplication(MultTest.java:11)
+
